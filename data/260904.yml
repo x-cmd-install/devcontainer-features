@@ -7,7 +7,7 @@ about:
   head: 4c6fe6a
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:23:06Z
+  collectedAt: 2026-09-04T21:12:34Z
 timeline:
   created: 2025-03-03
   lastCommit: 2025-06-25
@@ -80,5 +80,28 @@ total:
   openIssue: 15
   commit: 33
 ---
+path: /home/runner/.x-repo/github.com/anthropics/devcontainer-features
+collectedAt: 2026-09-04T21:12:34Z
+loc:
+  Sh:
+    code: 123
+    comments: 23
+    blanks: 27
+    files: 3
+  Json:
+    code: 28
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 64
+    blanks: 53
+    files: 3
+total:
+  code: 173
+  comments: 89
+  blanks: 81
+  files: 8
 ---
 
