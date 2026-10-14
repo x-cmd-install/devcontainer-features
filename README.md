@@ -29,7 +29,7 @@ Total: **151** lines of code across **8** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 311 · **Forks**: 58 · **Open issues**: 15 · **Contributors**: 4
+- **Stars**: 311 · **Forks**: 59 · **Open issues**: 15 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -39,12 +39,12 @@ Total: **151** lines of code across **8** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-15 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-04-16 | 0 | 0 | 0 | 0 | 4 | 0 |
-| 360d | 2025-10-18 | 0 | 0 | 5 | 0 | 9 | 0 |
-| last720d | 2024-10-23 | 0 | 9 | 7 | 0 | 15 | 33 |
+| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-16 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-04-17 | 0 | 0 | 0 | 0 | 4 | 0 |
+| 360d | 2025-10-19 | 0 | 0 | 5 | 0 | 9 | 0 |
+| last720d | 2024-10-24 | 0 | 9 | 7 | 0 | 15 | 33 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for devcontainer-features lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:21:16Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:13:58Z._
